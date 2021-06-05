@@ -35,6 +35,6 @@ const Navbar = (props) => {
     )
 }
 Navbar.defaultProps = {
-    title: 'Contest Arena'
+    title: 'Codechef-Peacer'
 }
 export default Navbar;
